@@ -7,7 +7,7 @@
 
     "password": "1qazxsw2",
     "method": "none",
-    "protocol": "auth_chain_b",
+    "protocol": "auth_chain_a",
     "protocol_param": "",
     "obfs": "tls1.2_ticket_auth",
     "obfs_param": "",
